@@ -31,7 +31,7 @@ def read_requirements(path):
 
 setup(
     name="ateltasdk",
-    version=read("ateltasdk", "VERSION"),
+    version=read("ateltasdk", "0.0.2"),
     description="Awesome ateltasdk created by AteltaAI",
     url="https://github.com/AteltaAI/AteltaSDK/",
     long_description=read("README.md"),

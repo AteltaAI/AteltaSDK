@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "a-flask-test"
-version = "0.1.0"
+name = "ateltasdk"
+version = "0.1.1"
 description = ""
-authors = ["rochacbruno"]
+authors = ["anindyadeep"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
