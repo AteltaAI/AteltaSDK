@@ -19,5 +19,3 @@ goal is to provide extensibility for already existing features provided by media
 Fun fact: Even our Atelta's core API services also use this sdk for all the backend computations. 
 
 
-token
-pypi-AgENdGVzdC5weXBpLm9yZwIkNTZkM2QzOGYtMjVhMC00MWQxLWEyZmYtOGI0YmRmYTE5NGZjAAIqWzMsIjU1NzViNmY1LTYwN2UtNDU3Ni04YTQyLWI5MmEwOWIzYWIyYiJdAAAGIBy3SDdAGT-w8sw1XUUVNEc3RJVTs78JyyqdxZJflAA0
