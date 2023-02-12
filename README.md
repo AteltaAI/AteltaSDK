@@ -17,3 +17,5 @@ So in order to make stuff more flexible and more customizable, we introduce Atel
 goal is to provide extensibility for already existing features provided by mediapipe and build more on the top of it. 
 
 Fun fact: Even our Atelta's core API services also use this sdk for all the backend computations. 
+
+
