@@ -44,3 +44,12 @@ def pose_matcher(
     distance, _ = fastdtw(angle_tracker1, angle_tracker2, dist=euclidean)
 
     return (distance, True if distance < evaluation_threshold else False)
+
+
+def pose_alignment():
+    ...
+
+def graph_entity_alignment():
+    ...
+
+# some SLAM based method to align a graph to another co-ordinate system 
